@@ -278,4 +278,4 @@ function pdf2text($filename) {
 
     return getTextUsingTransformations($texts, $transformations);
 }
-?> 
+?>
